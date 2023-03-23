@@ -2741,6 +2741,10 @@ input, select, textarea {
 
 /* Faces */
 
+ul.line {
+	border: 3px solid #5db4dd;
+}
+
 	ul.faces {
 		display: -moz-flex;
 		display: -webkit-flex;
