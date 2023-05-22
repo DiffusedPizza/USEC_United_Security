@@ -4562,3 +4562,7 @@ input, select, textarea {
 .caseStudyHeaders{
 	text-align: center;
 }
+
+.contactInfoLeft{
+	text-align: left;
+}
