@@ -3008,11 +3008,11 @@ input, select, textarea {
 		background-color: #4a4a4a;
 		color: #ffffff;
 		padding: 7em 0 5em 0 ;
-		background-image: url(/images/usec-logo.jpg);
-		/* background-image: -moz-linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/pic01.jpg");
-		background-image: -webkit-linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/pic01.jpg");
-		background-image: -ms-linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/pic01.jpg");
-		background-image: linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/pic01.jpg"); */
+		/* pic01.jpg */
+		background-image: -moz-linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/usec-logo.jpg");
+		background-image: -webkit-linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/usec-logo.jpg");
+		background-image: -ms-linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/usec-logo.jpg");
+		background-image: linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)), url("../../images/usec-logo.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
